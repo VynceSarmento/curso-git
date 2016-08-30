@@ -6,8 +6,6 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
     <body>
-        <h1>Curso Git</h1>
-        <h4>Muito F&aacute;cil</h4>
         <?php
         include './pagina.html';
         include './pagina2.html';
