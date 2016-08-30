@@ -9,8 +9,10 @@
     <body>
         <h1>Curso Git</h1>
         <h4>Muito F&aacute;cil</h4>
-        <a href="pagina.html">P&aacute;gina </a><br>
-        <a href="pagina2.html">P&aacutegina 2</a><br>
-        <a href="paginaTeste.html">P&aacutegina Teste</a>
+        <?php
+        include './pagina.html';
+        include './pagina2.html';
+        include './paginaTeste.html';
+        ?>
     </body>
 </html>
